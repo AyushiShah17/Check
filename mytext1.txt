@@ -1,0 +1,2 @@
+This is my file to be copied in mytext2
+A demo example
